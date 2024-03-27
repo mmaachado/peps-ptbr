@@ -1,115 +1,18 @@
-![](assets/header.jpg)
+Tradução PEPs (Python Enhancement Proposals) Essenciais
+=======================================================
 
-<p align="center">
-  <img src="https://shields.io/badge/python-3.11.2-3776AB?logo=python&style=flat">
-  <img src="https://shields.io/badge/django-4.1.7-092E20?logo=django&style=flat">
-  <img src="https://shields.io/badge/flask-2.2.3-000000?logo=flask&style=flat">
-  <img src="https://shields.io/badge/fastapi-0.95.0-009688?logo=fastapi&style=flat">
-</p>
+Neste repositório você irá encontrar a tradução para Português do Brasil das PEPs que eu julgo essenciais para qualquer desenvolvedor Python.
 
+Objetivo
+========
 
-<p align="center">
-    <a href="#-features">features</a>
-  • <a href="#-installation">installation</a>
-  • <a href="#-usage">usage</a>
-  • <a href="#️-contributing">contributing</a>
-</p>
+O objetivo deste projeto é ampliar o interesse de brasileiros nos padrões da linguagem de programação Python, facilitando o acesso aos recursos essenciais para uma boa codificação.
 
-**🌎 README is available in other languages:  [🇧🇷](translations/README_pt-br.md)**
+Motivação
+=========
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A principal motivação da criação deste projeto foi a necessidade de disponibilização de um conteúdo tão importante para os desenvolvedores Python.
 
-##
-- [🌟 features](#-features)
-- [📲 installation](#-installation)
-- [🐍 usage](#-usage)
-- [❤️ contributing](#️-contributing)
-- [👨🏻‍💻 author](#-author)
-- [👮🏻 license](#-license)
+Embora eu possua amplo conhecimento na língua Inglesa, em alguns momentos do dia eu simplesmente não tenho paciência para ficar lendo conteúdos em Inglês. Também percebi que ao ler algo em minha língua nativa, minha absorção daquele conteúdo é muito melhor.
 
-
-
-## 🌟 features
-
-* Lorem Ipsum
-* Lorem Ipsum
-* Lorem Ipsum
-* Lorem Ipsum
-* Lorem Ipsum
-* Lorem Ipsum
-
-
-## 📲 installation
-
-```cmd
-git clone https://github.com/Anti-Coding-Coding-Club/template.git
-```
->📣 **clone the repo**
-
-<br/>
-
-```cmd
-python -m venv env
-```
->📣 **create a venv**
-
-<br/>
-
-```cmd
-.\env\bin\activate
-```
->📣 **activate the venv**
-
-<br/>
-
-```python
-pip install -r requirements.txt
-```
->📣 **install project dependencies**
-
-<br/>
-
-## 🐍 usage
-
-only **1** steps needed to use:
-
-1️⃣ run
-```python
-python -m main.py
-```
-
-## ❤️ contributing
-this is an open source project, so feel free to contribute. how?
-- open an [issue](https://github.com/Anti-Coding-Coding-Club/template/issues).
-- propose your own fixes, suggestions and open a pull request with the changes.
-see [all contributors](https://github.com/Anti-Coding-Coding-Club/template/graphs/contributors)
-for more information, please read the [contributing guidelines](https://github.com/Anti-Coding-Coding-Club/template/blob/master/CONTRIBUTING.md).
-
-## 👨🏻‍💻 author
-[Marcelo Machado](http://www.twitter.com/shinilol1)
-
-## 👮🏻 license
-```
-MIT License
-
-Copyright (c) 2023 Anti Coding Coding Club
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-```
+Apenas utilizar plugins de tradutores no Browser ou jogar tudo em um LLM não seria tão proveitoso, uma vez que este tipo de documento contém vários termos técnicos e gírias, o que tornam traduções automáticas um pouco inconvenientes em alguns casos.
